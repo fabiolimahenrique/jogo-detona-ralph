@@ -24,6 +24,22 @@
     justify-content: center;
 }
 
+.panelsobre {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;  
+    height: 500px;
+    color:  #ffffff;
+}
+
+.panelsobre a { 
+   color: white;
+   padding-top: 20px;
+   font-size: 30px;
+}
+
+
 .square {
     height: 150px;
     width: 150px;
